@@ -4,3 +4,4 @@ The game contains several twists that are not present in the actual game from At
 
 
 
+![image](/images/logo.gif?raw=true "image")
