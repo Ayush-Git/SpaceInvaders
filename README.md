@@ -4,7 +4,4 @@ The game contains several twists that are not present in the actual game from At
 
 
 ![image](/images/logo.png?raw=true "image")
-<p align="center">
-  <img src="https://github.com/Ayush-Git/SpaceInvaders/blob/master/images/spaceinvaders.png">
-</p>
 
